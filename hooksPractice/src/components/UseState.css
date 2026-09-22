@@ -1,0 +1,43 @@
+.box {
+    height: 500px;
+    width: 500px;
+    border: 2px solid white;
+    border-radius: 15px;
+
+}
+
+.inc-num {
+    height: 300px;
+    width: 500px;
+    border: 2px solid white;
+    border-radius: 15px;
+    color: white;
+    font-weight: 100;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.button-box {
+    height: 200px;
+    width: 500px;
+    border: none;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.button-box button {
+    height: 80px;
+    width: 150px;
+    margin: 5px;
+    border-radius: 10px;
+
+}
